@@ -1,3 +1,4 @@
+require 'pry'
 def line(kazt_deli)
   display = "The line is currently:"
   if kazt_deli.count > 0 
